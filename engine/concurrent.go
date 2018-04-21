@@ -1,14 +1,9 @@
 package engine
 
-import (
-	"log"
-
-	"learn/crawler/model"
-)
-
 type ConcurrentEngine struct {
 	Scheduler   Scheduler
 	WorkerCount int
+	ItemChan    chan interface{}
 }
 
 type Scheduler interface {
@@ -40,16 +35,10 @@ func (e *ConcurrentEngine) Run(seeds ...Request) {
 		e.Scheduler.Submit(r)
 	}
 
-	profileCount := 0
 	for {
 		result := <-out
 		for _, item := range result.Items {
-			if _, ok := item.(model.Profile); ok {
-				log.Printf("Got item #%d: %v",
-					profileCount, item)
-				profileCount++
-			}
-
+			go func() { e.ItemChan <- item }()
 		}
 
 		// url dedup
