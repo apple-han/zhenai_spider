@@ -1,0 +1,42 @@
+{
+  "took": 6,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 1,
+    "max_score": 1.0,
+    "hits": [
+      {
+        "_index": "dating_test",
+        "_type": "zhenai",
+        "_id": "106573110",
+        "_score": 1.0,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/106573110",
+          "Id": "106573110",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "微凉",
+            "Gender": "女",
+            "Age": 32,
+            "Height": 155,
+            "Weight": 50,
+            "Income": "5001-8000元",
+            "Marriage": "离异",
+            "Education": "中专",
+            "Occupation": "销售专员",
+            "Hokou": "贵州安顺",
+            "Xinzou": "牡羊座",
+            "House": "和家人同住",
+            "Car": "未购车"
+          }
+        }
+      }
+    ]
+  }
+}

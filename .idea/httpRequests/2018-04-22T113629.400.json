@@ -1,0 +1,13 @@
+{
+  "error": {
+    "root_cause": [
+      {
+        "type": "illegal_argument_exception",
+        "reason": "request [/] contains unrecognized parameter: [q]"
+      }
+    ],
+    "type": "illegal_argument_exception",
+    "reason": "request [/] contains unrecognized parameter: [q]"
+  },
+  "status": 400
+}

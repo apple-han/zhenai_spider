@@ -1,0 +1,72 @@
+GET http://localhost:9200/dating_profile/_search?q=已购房
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-22T114511.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/_search?q=已购房
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-22T113919.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/_search?q=已购房
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-22T113648.200.json
+
+###
+
+GET http://localhost:9200?q=已购房
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-22T113629.400.json
+
+###
+
+GET http://localhost:9200
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-22T113502.200.json
+
+###
+
+GET http://localhost:9200/dating_test/_search
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-22T113248.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/_search
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-22T113223.200.json
+
+###
+
+GET http://localhost:9200/dating_profile/zhenai/_search
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-22T113157.200.json
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-04-22T113111.404.html
+
+###
+

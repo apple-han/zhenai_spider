@@ -1,0 +1,276 @@
+{
+  "took": 550,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 1389,
+    "max_score": 2.8295093,
+    "hits": [
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "105831497",
+        "_score": 2.8295093,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/105831497",
+          "Id": "105831497",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "Ling",
+            "Gender": "男",
+            "Age": 22,
+            "Height": 172,
+            "Weight": 58,
+            "Income": "3001-5000元",
+            "Marriage": "未婚",
+            "Education": "大专",
+            "Occupation": "建筑/房地产",
+            "Hokou": "重庆开州区",
+            "Xinzou": "金牛座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      },
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "1522335282",
+        "_score": 2.7075982,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/1522335282",
+          "Id": "1522335282",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "房松",
+            "Gender": "男",
+            "Age": 25,
+            "Height": 171,
+            "Weight": 65,
+            "Income": "5001-8000元",
+            "Marriage": "未婚",
+            "Education": "大专",
+            "Occupation": "客服专员",
+            "Hokou": "江苏淮安",
+            "Xinzou": "狮子座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      },
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "109413610",
+        "_score": 2.5555277,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/109413610",
+          "Id": "109413610",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "空扰寡人",
+            "Gender": "男",
+            "Age": 47,
+            "Height": 180,
+            "Weight": 78,
+            "Income": "20001-50000元",
+            "Marriage": "离异",
+            "Education": "硕士",
+            "Occupation": "农林牧渔",
+            "Hokou": "新疆昌吉",
+            "Xinzou": "水瓶座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      },
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "109334818",
+        "_score": 2.5555277,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/109334818",
+          "Id": "109334818",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "高飞",
+            "Gender": "男",
+            "Age": 38,
+            "Height": 171,
+            "Weight": 0,
+            "Income": "5001-8000元",
+            "Marriage": "离异",
+            "Education": "大学本科",
+            "Occupation": "销售总监",
+            "Hokou": "湖南郴州",
+            "Xinzou": "水瓶座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      },
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "1341463108",
+        "_score": 2.5555277,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/1341463108",
+          "Id": "1341463108",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "伤情",
+            "Gender": "女",
+            "Age": 46,
+            "Height": 153,
+            "Weight": 50,
+            "Income": "3000元以下",
+            "Marriage": "丧偶",
+            "Education": "大专",
+            "Occupation": "农林牧渔",
+            "Hokou": "湖南衡阳",
+            "Xinzou": "处女座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      },
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "108847667",
+        "_score": 2.5555277,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/108847667",
+          "Id": "108847667",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "叶枫",
+            "Gender": "男",
+            "Age": 31,
+            "Height": 172,
+            "Weight": 70,
+            "Income": "8001-12000元",
+            "Marriage": "未婚",
+            "Education": "硕士",
+            "Occupation": "银行",
+            "Hokou": "山东东营",
+            "Xinzou": "双鱼座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      },
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "108465621",
+        "_score": 2.5555277,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/108465621",
+          "Id": "108465621",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "雨蝶",
+            "Gender": "女",
+            "Age": 42,
+            "Height": 164,
+            "Weight": 63,
+            "Income": "8001-12000元",
+            "Marriage": "离异",
+            "Education": "大专",
+            "Occupation": "销售经理",
+            "Hokou": "新疆和田",
+            "Xinzou": "魔羯座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      },
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "1154974066",
+        "_score": 2.5555277,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/1154974066",
+          "Id": "1154974066",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "妮儿",
+            "Gender": "女",
+            "Age": 30,
+            "Height": 158,
+            "Weight": 48,
+            "Income": "8001-12000元",
+            "Marriage": "离异",
+            "Education": "中专",
+            "Occupation": "销售专员",
+            "Hokou": "广东江门",
+            "Xinzou": "射手座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      },
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "107829113",
+        "_score": 2.5555277,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/107829113",
+          "Id": "107829113",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "重生",
+            "Gender": "男",
+            "Age": 37,
+            "Height": 172,
+            "Weight": 65,
+            "Income": "5001-8000元",
+            "Marriage": "离异",
+            "Education": "硕士",
+            "Occupation": "教授",
+            "Hokou": "江苏淮安",
+            "Xinzou": "处女座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      },
+      {
+        "_index": "dating_profile",
+        "_type": "zhenai",
+        "_id": "107944929",
+        "_score": 2.5555277,
+        "_source": {
+          "Url": "http://album.zhenai.com/u/107944929",
+          "Id": "107944929",
+          "Type": "zhenai",
+          "Payload": {
+            "Name": "要就是你",
+            "Gender": "男",
+            "Age": 38,
+            "Height": 172,
+            "Weight": 70,
+            "Income": "8001-12000元",
+            "Marriage": "离异",
+            "Education": "中专",
+            "Occupation": "司机",
+            "Hokou": "广东惠州",
+            "Xinzou": "水瓶座",
+            "House": "已购房",
+            "Car": "已购车"
+          }
+        }
+      }
+    ]
+  }
+}
